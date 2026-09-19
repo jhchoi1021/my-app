@@ -1,0 +1,2 @@
+# macOS Finder가 만드는 메타데이터는 프로젝트 코드와 무관하므로 Git에서 제외합니다.
+.DS_Store
